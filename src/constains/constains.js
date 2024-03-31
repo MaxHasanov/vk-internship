@@ -1,0 +1,1 @@
+export const API = 'https://65f17328034bdbecc762a495.mockapi.io/groups'
